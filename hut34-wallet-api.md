@@ -61,7 +61,7 @@ Authorization: Hut34 CKooV3KaDPg6K70H06aF9IgQi7zFCSkO
 
 
 
-{% api-method method="get" host="https://walletbeta.hut34.io/api/v1" path="/addresses" %}
+{% api-method method="get" host="https://wallet.hut34.io/api/v1" path="/addresses" %}
 {% api-method-summary %}
 /addresses \(GET\)
 {% endapi-method-summary %}
@@ -104,7 +104,7 @@ Returns the list of addresses for this user that can be managed via the API i.e.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://walletbeta.hut34.io/api/v1" path="/addresses" %}
+{% api-method method="post" host="https://wallet.hut34.io/api/v1" path="/addresses" %}
 {% api-method-summary %}
 /addresses \(POST\)
 {% endapi-method-summary %}
@@ -150,7 +150,7 @@ Allows the user to create a new address with the chosen password.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://walletbeta.hut34.io/api/v1" path="/addresses/{source address}/send/eth" %}
+{% api-method method="post" host="https://wallet.hut34.io/api/v1" path="/addresses/{source address}/send/eth" %}
 {% api-method-summary %}
 /addresses/{source address}/send/eth
 {% endapi-method-summary %}
