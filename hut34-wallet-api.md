@@ -6,7 +6,7 @@ Prior to using API calls, you need to enable API access in your account.
 
 First, Sign in using your Google account credentials at:
 
-> [https://wallet.hut34.io/](https://wallet.hut34.io/) excellent
+> [https://wallet.hut34.io/](https://wallet.hut34.io/)
 
 ![](.gitbook/assets/image%20%2815%29.png)
 
@@ -200,7 +200,7 @@ Allows the user to send ETH to another address.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://walletbeta.hut34.io/api/v1" path="/addresses/{Source address}/send/tokens" %}
+{% api-method method="post" host="https://wallet.hut34.io/api/v1" path="/addresses/{Source address}/send/tokens" %}
 {% api-method-summary %}
 /addresses/{source address}/send/tokens
 {% endapi-method-summary %}
@@ -260,7 +260,7 @@ Allows to send tokens \(other than ETH\) to other addresses.
 ## Redirecting  <a id="redirecting"></a>
 
 ```text
-https://walletbeta.hut34.io/?redirectAddressTo={redirect address}
+https://wallet.hut34.io/?redirectAddressTo={redirect address}
 ```
 
 After sign in, this will perform a redirect in the browser to the given address, with the parameter "walletAddress" set to the first address in the wallet.
@@ -268,7 +268,7 @@ After sign in, this will perform a redirect in the browser to the given address,
 For example:
 
 ```text
-https://walletbeta.hut34.io/?redirectAddressTo=https://hut34.io
+https://wallet.hut34.io/?redirectAddressTo=https://hut34.io
 ```
 
 will direct you to
@@ -281,7 +281,7 @@ https://hut34.io/?walletAddress=0xf7b024a32cE0183616ee62bBA00786a71e987390
 
 With the help of this API call, your app will be able to prepare the user to proceed to a payment through the Hut34 Wallet.
 
-{% api-method method="get" host="https://walletbeta.hut34.io" path="/?data={encodedJSON}" %}
+{% api-method method="get" host="https://wallet.hut34.io" path="/?data={encodedJSON}" %}
 {% api-method-summary %}
 Prepare for transfer \(GET\)
 {% endapi-method-summary %}
