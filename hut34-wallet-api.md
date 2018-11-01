@@ -6,7 +6,7 @@ Prior to using API calls, you need to enable API access in your account.
 
 First, Sign in using your Google account credentials at:
 
-> [https://wallet.hut34.io/](https://wallet.hut34.io/)
+> [https://wallet.hut34.io/](https://wallet.hut34.io/) excellent
 
 ![](.gitbook/assets/image%20%2815%29.png)
 
