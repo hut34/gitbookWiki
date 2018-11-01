@@ -357,7 +357,6 @@ After encoding the above JSON object in base64, we find the following link:
 ```text
 https://wallet.hut34.io/?data=ewogICJ0b0FkZHJlc3MiOiAiMHg5NWM4YzU1YmIzNGU5NzAxYTgwNTA3YzgzY2Y0ODhkNWI4NTE2NmUyIiwKICAiYW1vdW50IjogIjEiLAogICJyZWRpcmVjdE9uU3VjY2VzcyI6ICJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVNDNHhNazk4UGRjIiwKICAidG9rZW4iOiB7CiAgICAic3ltYm9sIjogIkVOVFJQIiwKICAgICJkZWNpbWFscyI6IDE4LAogICAgImFkZHJlc3MiOiAiMHg1QkM3ZTVmMEFiOGIyRTEwRDJEMGEzRjIxNzM5RkNlNjI0NTlhZUYzIgogIH0KfQ==
 ```
-
 {% hint style="info" %}
 Do not forget to include the Authorization header containing your Hut34 API key.
 {% endhint %}
