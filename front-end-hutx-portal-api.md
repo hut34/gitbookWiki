@@ -8,7 +8,7 @@ orderHash and Signature
 {% api-method-description %}
 Post all variables needed to make a valid 0x object and backend is creating an orderHash and signing it. Returns the valid makerAssetData and takerAssetData, signature and orderHash.  
   
-EVERY VARIABLE IS A STRING
+EVERY VARIABLE IS A STRING.  
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -114,7 +114,7 @@ Create an Ethereum Address
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Creates an address that is linked to the google account. Used to generate order and filling order
+Creates an address that is linked to the google account. Used to generate order and filling order. In the backend, I  use Hut34 wallet API, but I doubt that it will affect the front-end.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -129,7 +129,7 @@ user ID from google sign in
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Returns the address created.
 {% endapi-method-response-example-description %}
 
 ```
@@ -182,7 +182,7 @@ Send dust ETH to the account
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Funds the account once only to post several requests and getting approved 
+Funds the account once only to post several requests and getting approved. For portal users only. In the backend, it sends ETH to the address and approves ENTRP. fully automated.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -221,7 +221,7 @@ Send 5 ENTRP to ethAddress
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Fund the address once in ENTRP to generate and fill Order
+Fund the address once in ENTRP to generate and fill Order. For portal users only.
 {% endapi-method-description %}
 
 {% api-method-spec %}

@@ -6,7 +6,7 @@ Register a device
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+API allows the user to register a device from the front-end.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -41,7 +41,7 @@ Name of the device
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Returns the dialogFlowAPI that I have created for that bot. Need to be used when talking to another bot \(and necessary when generating and filling order in the backend\)
 {% endapi-method-response-example-description %}
 
 ```
@@ -51,7 +51,7 @@ alert("You have successfully registered your device. The Fallback Intent of your
 
 {% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-
+returns "invocation already exists" if the invocation already exists. Does not return anything if a problem occurs.
 {% endapi-method-response-example-description %}
 
 ```
@@ -109,7 +109,7 @@ referenceID of the device on firestore
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Returns success
 {% endapi-method-response-example-description %}
 
 ```
@@ -136,11 +136,11 @@ if(status === "success") {
 
 {% api-method method="post" host="https://relay.hut34.io" path="/devices/sendENTRP" %}
 {% api-method-summary %}
-send ENTRP to the bot 
+send ENTRP to the device 
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Funds the account in the backend by sending the info needed. Can only be funded ENTRP once
+Funds the account in the backend by sending the info needed. Can only be funded ENTRP once. All data are fetched from firestore when displaying their bots/devices. Only for devices on Relay.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -167,7 +167,7 @@ device's invocation
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+returns "true" \(string\) when the device has already been funded. Returns the transaction hash if it is successful.
 {% endapi-method-response-example-description %}
 
 ```
@@ -191,7 +191,7 @@ Send some dust ETH to a device
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Can only be done once
+Can only be done once. Same concept as the API above but with ETH for the device to fillOrder and approve ENTRP. Only for devices on relay.
 {% endapi-method-description %}
 
 {% api-method-spec %}
