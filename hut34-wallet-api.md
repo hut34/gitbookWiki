@@ -363,7 +363,11 @@ Sign Order Hash
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+Signs a 0x order.   
+  
+  
+  
+WARNING: Signing does not mean that the 0x order is valid. It is merely a mathematical calculation.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -399,6 +403,100 @@ Sign Order Hash
 {
 "result": "0x..................."
 }
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://wallet.hut34.io/api/v1" path="/fillOrder" %}
+{% api-method-summary %}
+Fill 0x Order
+{% endapi-method-summary %}
+
+{% api-method-description %}
+Fill the 0x order included in the body.   
+  
+The 0x object must be valid and signed.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-headers %}
+{% api-method-parameter name="Authorization" type="string" required=true %}
+Hut34 \[API\_KEY\]
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+
+{% api-method-body-parameters %}
+{% api-method-parameter name="signedOrder" type="object" required=true %}
+Valid 0x order 
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="walletAddress" type="string" required=true %}
+The address you want to fill the order with 
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="password" type="string" required=true %}
+password of your Hut34 address that you are using
+{% endapi-method-parameter %}
+{% endapi-method-body-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+Returns the transaction hash that can be tracked on etherscan.
+{% endapi-method-response-example-description %}
+
+```javascript
+"result": "0x......"
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://wallet.hu34.io/api/v1" path="/setProxyAllowance" %}
+{% api-method-summary %}
+Set Proxy Allowance
+{% endapi-method-summary %}
+
+{% api-method-description %}
+Approve the coin used for this address.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-headers %}
+{% api-method-parameter name="Authorization" type="string" required=true %}
+Hut34 \[API\_KEY\]
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+
+{% api-method-body-parameters %}
+{% api-method-parameter name="walletAddress" type="string" required=false %}
+The address used to approve the coin
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="password" type="string" required=false %}
+The password of the address
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="tokenAddress" type="string" required=false %}
+The address of the approved coin
+{% endapi-method-parameter %}
+{% endapi-method-body-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+Returns the transaction hash that can be tracked on etherscan.
+{% endapi-method-response-example-description %}
+
+```javascript
+"result": "0x......"
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
