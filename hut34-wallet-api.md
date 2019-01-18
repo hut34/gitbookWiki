@@ -14,24 +14,24 @@ Next, click on your profile on the top right of your screen and click on API set
 
 ![](.gitbook/assets/image%20%2810%29.png)
 
-On the next page, click on "Enable API". It's done! You have successfully enables API access in order to use them.
+On the next page, click on "Enable API". It's done! You have successfully enabled API access in order to use them.
 
 ![](.gitbook/assets/image%20%288%29.png)
 
 {% hint style="info" %}
 
-**Wallet as a service API v.0.0.1**
+**Wallet as a Service API v.0.0.1**
 
 * API based security applies to all URLs /api/v1/
 * Regular OAuth based security applies to all other URLs
-* we recommend using other providers to query balances and view transaction history.
+* We recommend using other providers to query balances and view transaction history.
 
 ## Base URL
 
 All endpoints are served at:
 
 ```text
-https://walletbeta.hut34.io/api/v1
+https://wallet.hut34.io/api/v1
 ```
 
 ## Authentication
@@ -40,7 +40,7 @@ https://walletbeta.hut34.io/api/v1
 **Note:** The API tag on an address does not refer to API access, rather that the address was created using the API.
 {% endhint %}
 
-To enable API access, first log in to your wallet, and select ‘API access’ from the top right hand corner of the screen. Record your API key, and ensure all requests contain an ‘Authorization’ request header as follows:
+To enable API access, first log in to your Hut34 wallet, and select ‘API access’ from the top right hand corner of the screen. Record your API key securely, and ensure all requests contain an ‘Authorization’ request header as follows:
 
 ```text
 Authorization: Hut34 [APIKEY]
@@ -53,7 +53,7 @@ Authorization: Hut34 CKooV3KaDPg6K70H06aF9IgQi7zFCSkO
 ```
 
 {% hint style="info" %}
-**Note:** Authorization header needs to be included in every API calls.
+**Note:** Authorization header needs to be included in every API call.
 {% endhint %}
 
 ## Endpoints   <a id="endpoints"></a>
@@ -258,7 +258,7 @@ Allows to send tokens \(other than ETH\) to other addresses.
 https://wallet.hut34.io/api/v1/?redirectAddressTo={redirect address}
 ```
 
-After sign in, this will perform a redirect in the browser to the given address, with the parameter "walletAddress" set to the first address in the wallet.
+After Sign in, this will perform a redirect in the browser to the given address, with the parameter "walletAddress" set to the first address in the wallet.
 
 For example:
 
@@ -274,7 +274,7 @@ https://hut34.io/?walletAddress=0xf7b024a32cE0183616ee62bBA00786a71e987390
 
 ## Transaction
 
-With the help of this API call, your app will be able to prepare the user to proceed to a payment through the Hut34 Wallet.
+With the help of this API call, your application will be able to prepare the user to proceed to a payment through the Hut34 Wallet.
 
 {% api-method method="get" host="https://wallet.hut34.io/api/v1" path="/?data={encodedJSON}" %}
 {% api-method-summary %}
@@ -505,9 +505,9 @@ Returns the transaction hash that can be tracked on etherscan.
 
 ## Disable API Access in your account
 
-If you ever want to disable API calls for your account for any reason, complete the following steps:
+If you ever want to disable API calls for your account, complete the following steps:
 
-First, Log In your Hut34 Wallet using your Google Account credentials.
+First, Sign in your Hut34 wallet using your Google Account credentials.
 
 ![](.gitbook/assets/image%20%2815%29.png)
 
