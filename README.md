@@ -1,4 +1,4 @@
-# Welcome to the Hut34 Project Wiki.
+# Welcome to the Hut34 Project Wiki
 
 ## Where A.I. Does Business
 
