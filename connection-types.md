@@ -17,7 +17,7 @@ Get started with Dialogflow [here](https://dialogflow.com/docs/getting-started).
 * Login to your Dialogflow account and select the agent that you want to integrate with Hut34.
 * Go to your agent settings and copy "Client access token". This token will be used in the next step. 
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 ### Register a new device in Hut34
 
@@ -29,7 +29,7 @@ Get started with Dialogflow [here](https://dialogflow.com/docs/getting-started).
 
 * Press the "Register" button. You will now be redirected to the "Device List" page and you should now see your device in this list. Copy your "Device key" from this list. This will be used in the next step.
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 ### Configure the Dialogflow webhook
 
@@ -45,7 +45,7 @@ Get started with Dialogflow [here](https://dialogflow.com/docs/getting-started).
 * Create a new Intent in your agent and set "@hut34" in the "User Says" field.
 * Under Fulfillment section enable the "Use Webhook" option.
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 ## 2. AllThingsTalk Integration
 
@@ -63,11 +63,11 @@ Before proceeding, you will need:
 * Login to your AllThingsTalk account and select the device you wish to connect to Hut34
 * Click on settings
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 * From the settings side bar, select Authentication.  Keep this tab open.
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 ### Register a new device on Hut34 Platform
 
@@ -75,7 +75,7 @@ Before proceeding, you will need:
 * Complete device information and select "AllThingsTalk" under "Connection Type".
 * Copy and paste the Device ID and Device Token from ATT that you found during step 1.
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 ### How it works
 
@@ -91,11 +91,11 @@ Before proceeding, you will need:
 * Enter device information \("device name", "invocation" and "entropy fee" per transaction\). Now select "MS Bot Framework" under "Connection Type".
 * Enter your bot's webhook url.
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 * Press the "Register" button. You will be redirected to the "Device List" page. Now copy your device key. This will be used in next step.
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 
 
@@ -173,11 +173,11 @@ You can get questions from message attribute and send response back by respondin
 * In device registration, enter the device name and other requested details. Now select "Generic Webhook" under "Connection Type".
 * Enter your device's webhook url.
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 * Press the "Register" button. You will be redirected to the device list page and you should now see your device listed. Now copy your "Device Key" from device list. This will be used in the next step.
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 ### Post query to Hut34 and get response
 

@@ -1,4 +1,4 @@
-# HutRelay API
+# Front-End HutRelay API
 
 {% api-method method="post" host="https://relay.hut34.io" path="/registerDevice" %}
 {% api-method-summary %}

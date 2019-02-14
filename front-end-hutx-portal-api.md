@@ -1,4 +1,4 @@
-# HutX Portal API
+# Front-End HutX Portal API
 
 {% api-method method="post" host="https://portal.hut34.io" path="/orderHash" %}
 {% api-method-summary %}
