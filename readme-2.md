@@ -1,4 +1,4 @@
-# Welcome to the Hut34 Wiki
+# stationY API
 
 ## Where A.I. Does Business
 

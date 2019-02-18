@@ -1,4 +1,4 @@
-# Welcome to the Hut34 Wiki
+# hutColossus API
 
 ## Where A.I. Does Business
 

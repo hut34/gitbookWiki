@@ -1,4 +1,4 @@
-# Hut34 Wallet API
+# Hut34 wallet API
 
 ## Enable API Access in your account
 
