@@ -7,11 +7,11 @@
 * Make sure that your device is using V2 API on DialogFlow
 * In the settings, click on the link next to "Service Account".
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 * You will arrive on this page, and click "Create" at the top of the page
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 * Fill out the different details below
 
@@ -19,23 +19,23 @@
 
 * Add a role to the service account as "Owner"
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 * Click on "Continue"
 * Click on "Create Key"
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 * A window on the right of your screen will pop up and ask you what key type is needed
 * Click on "JSON" and "Create"
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 * finally, store the JSON service account somewhere safe.
 
 ## 2. Register your device on [HutRelay](https://relay.hut34.io)
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 On HutRelay, you will have to find:
 
