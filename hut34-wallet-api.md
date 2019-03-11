@@ -14,7 +14,7 @@ Next, click on your profile on the top right of your screen and click on API set
 
 ![](.gitbook/assets/image%20%2818%29.png)
 
-On the next page, click on "Enable API". It's done! You have successfully enables API access in order to use them.
+On the next page, click on "Enable API". It's done! You have successfully enabled API access to this account.
 
 ![](.gitbook/assets/image%20%2816%29.png)
 
@@ -24,20 +24,20 @@ On the next page, click on "Enable API". It's done! You have successfully enable
 
 * API based security applies to all URLs /api/v1/
 * Regular OAuth based security applies to all other URLs
-* we recommend using other providers to query balances and view transaction history.
+* we recommend using other providers such as infura, etherscan, or ethers.js in a client, to query balances and view transaction history.
 
 ## Base URL
 
 All endpoints are served at:
 
 ```text
-https://walletbeta.hut34.io/api/v1
+https://wallet.hut34.io/api/v1
 ```
 
 ## Authentication
 
 {% hint style="info" %}
-**Note:** The API tag on an address does not refer to API access, rather that the address was created using the API.
+**Note:** The API tag displayed against an address in the browser window indicates that this address was created using the API.
 {% endhint %}
 
 To enable API access, first log in to your wallet, and select ‘API access’ from the top right hand corner of the screen. Record your API key, and ensure all requests contain an ‘Authorization’ request header as follows:
@@ -53,7 +53,7 @@ Authorization: Hut34 CKooV3KaDPg6K70H06aF9IgQi7zFCSkO
 ```
 
 {% hint style="info" %}
-**Note:** Authorization header needs to be included in every API calls.
+**Note:** This Authorization header must be included in all further API calls.
 {% endhint %}
 
 ## Endpoints   <a id="endpoints"></a>
@@ -64,7 +64,7 @@ Authorization: Hut34 CKooV3KaDPg6K70H06aF9IgQi7zFCSkO
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Returns the list of addresses for this user that can be managed via the API i.e. password protected addresses.
+Returns the list of addresses for this user that can be managed via the API.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -173,7 +173,7 @@ Allows the user to send ETH to another address.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="value" type="string" required=true %}
-"100000000", \(note: value is in Wei, nonce is fetched automatically, gas limit is set 21,000.
+"100000000", \(note: value is in Wei, nonce is fetched automatically, gas limit is set to 21,000.
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
@@ -202,7 +202,7 @@ Allows the user to send ETH to another address.
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Allows to send tokens \(other than ETH\) to other addresses.
+Allows to send tokens \(other than ETH\) to an address.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -274,7 +274,7 @@ https://hut34.io/?walletAddress=0xf7b024a32cE0183616ee62bBA00786a71e987390
 
 ## Transaction
 
-With the help of this API call, your app will be able to prepare the user to proceed to a payment through the Hut34 Wallet.
+Your application can prepare a transaction for your user to approve. Prepare a JSON object which describes the transaction, as outlined below. Encode this JSON object in Base 64, and provide this information as a 'data' GET variable within a link to the user's wallet, as shown below;
 
 {% api-method method="get" host="https://wallet.hut34.io/api/v1" path="/?data={encodedJSON}" %}
 {% api-method-summary %}
