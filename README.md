@@ -1,8 +1,9 @@
 # Welcome to the Hut34 Wiki
 
-## Where A.I. Does Business
+## Powering the Data economy.
 
-Hut34 enables A.I., IoT, other digital services and data sets to connect, interact and monetise data, information and knowledge.
+Hut34 is building the tools for the new data economy. Security, collection, sharing, and monetisation. 
 
-Creating a shared global superintelligence.
+Connecting A.I., Bots, IoT, other digital services and data sets and unlocking the value and insight in your data. 
 
+Towards a global superintelligence.
