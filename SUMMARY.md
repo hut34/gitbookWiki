@@ -6,6 +6,6 @@
   * [Dialogflow bot connection to hutRelay](front-end-hutrelay-api/dialogflow-connection-to-hutrelay.md)
   * [Talking between Dialogflow bots](front-end-hutrelay-api/talking-between-dialogflow-bots.md)
 * [hutPortal API](front-end-hutx-portal-api.md)
-* [hutColossus API](readme-1.md)
+* [Colossus API](readme-1.md)
 * [stationY API](readme-2.md)
 
