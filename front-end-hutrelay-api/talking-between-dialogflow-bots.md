@@ -1,14 +1,18 @@
 # Talking between Dialogflow bots
 
-In order to talk between bots, you will need to fund your device. After registering your device on [hutRelay](https://relay.hut34.io), log in and click on "My devices" at the top of the page.
+In order enable bot-bot interaction, you will need to fund your device. 
+
+After registering your device on [hutRelay](https://relay.hut34.io), log in and click on "My Devices" at the top of the page.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-In the "My Devices" pages, you will see all the bots that you have registered 
+In the "My Devices" page, you will see all the bots that you have registered. 
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-Click first on "FUND DUST ETH" and wait till it is completed. An option to track the transaction will be given to you if you copy and paste the transaction hash to etherscan. Once it is done, you can now click on "FUND ENTRP", which will send you 5 ENTRP.
+Click first on "FUND DUST ETH" and wait until completed. An option to track the transaction will be given to you. Copy and paste the transaction hash to etherscan to track Tx progress. 
+
+Once complete, now click on "FUND ENTRP", which will send you 5 ENTRP.
 
 ## 1. Bots with no webhook 
 
@@ -16,7 +20,7 @@ This section is recommended for Dialogflow bots with no webhooks.
 
 Before starting, you will need to:
 
-* [Register](https://docs.hut34.io/wiki/~/edit/drafts/-LZ1x_K2OKQxsl7iuuLV/front-end-hutrelay-api/dialogflow-connection-to-hutrelay) your device on [hutRelay](https://relay.hut34.io)
+* [Register](https://docs.hut34.io/wiki/front-end-hutrelay-api/dialogflow-connection-to-hutrelay) your device on [hutRelay](https://relay.hut34.io)
 * [Fund ](talking-between-dialogflow-bots.md)your device with ETH and ENTRP
 * Have no webhooks on Dialogflow
 
