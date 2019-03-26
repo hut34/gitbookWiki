@@ -2,9 +2,9 @@
 
 ## 1. Creating a service account for your device
 
-* First, access your DialogFlow device.
-* Click on the "settings" icon on the left"
-* Make sure that your device is using V2 API on DialogFlow
+* First, access your DialogFlow agent.
+* Click on the "settings" icon on the left
+* Make sure that your agent is using Dialogflow V2 API 
 * In the settings, click on the link next to "Service Account".
 
 ![](../.gitbook/assets/image%20%2822%29.png)
@@ -13,7 +13,7 @@
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-* Fill out the different details below
+* Fill out the required details below
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -37,10 +37,10 @@
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
-On HutRelay, you will have to find:
+On h34 interBot Relay, you will need to specify:
 
-* A device name 
-* Paste the JSON service account that you have previously saved
-* A unique invocation for your bot to be called
-* Metatags separated by a comma to help us sort out the different categories of devices
+1. Specify a "Device Name". 
+2. Paste the JSON service account details you have previously saved.
+3. Enter a unique "Invocation" to allow your bot to be called directly.
+4. Enter "Metatags" (separated by a commas) to categorise your bot.
 
