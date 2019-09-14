@@ -6,4 +6,4 @@ Hut34 is building the tools for the new data economy. Security, collection, shar
 
 Connecting A.I., Bots, IoT, other digital services and data sets and unlocking the value and insight in your data. 
 
-Towards a global superintelligence.
+Towards a global superintelligence..
