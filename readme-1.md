@@ -1,4 +1,4 @@
-# hutColossus API
+# Colossus API
 
 ## Where A.I. Does Business
 

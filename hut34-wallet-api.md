@@ -56,7 +56,7 @@ Authorization: Hut34 CKooV3KaDPg6K70H06aF9IgQi7zFCSkO
 **Note:** This Authorization header must be included in all further API calls.
 {% endhint %}
 
-## Endpoints   <a id="endpoints"></a>
+## Endpoints    <a id="endpoints"></a>
 
 {% api-method method="get" host="https://wallet.hut34.io/api/v1" path="/addresses" %}
 {% api-method-summary %}
@@ -252,7 +252,7 @@ Allows to send tokens \(other than ETH\) to an address.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-## Redirecting   <a id="redirecting"></a>
+## Redirecting    <a id="redirecting"></a>
 
 ```text
 https://wallet.hut34.io/api/v1/?redirectAddressTo={redirect address}
@@ -363,11 +363,7 @@ Sign Order Hash
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Signs a 0x order.   
-  
-  
-  
-WARNING: Signing does not mean that the 0x order is valid. It is merely a mathematical calculation.
+Signs a 0x order.WARNING: Signing does not mean that the 0x order is valid. It is merely a mathematical calculation.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -415,9 +411,7 @@ Fill 0x Order
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Fill the 0x order included in the body.   
-  
-The 0x object must be valid and signed.
+Fill the 0x order included in the body.The 0x object must be valid and signed.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -430,11 +424,11 @@ Hut34 \[API\_KEY\]
 
 {% api-method-body-parameters %}
 {% api-method-parameter name="signedOrder" type="object" required=true %}
-Valid 0x order 
+Valid 0x order
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="walletAddress" type="string" required=true %}
-The address you want to fill the order with 
+The address you want to fill the order with
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="password" type="string" required=true %}
