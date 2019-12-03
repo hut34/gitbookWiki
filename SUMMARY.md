@@ -42,3 +42,8 @@
 * [Colossus API](api-documentation/readme-1.md)
 * [wallet API](api-documentation/hut34-wallet-api.md)
 
+## Project Updates
+
+* [Social Media](social-media.md)
+* [hut 'Proof of Work'](pow.md)
+
