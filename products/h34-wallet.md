@@ -1,2 +1,2 @@
-# h34 wallet
+# hut34 wallet
 

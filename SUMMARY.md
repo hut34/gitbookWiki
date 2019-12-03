@@ -27,7 +27,7 @@
     * [Python](products/datahuts/integrations/python.md)
 * [stationY](products/stationy.md)
 * [colossus](products/colossus.md)
-* [h34 wallet](products/h34-wallet.md)
+* [hut34 wallet](products/h34-wallet.md)
 
 ## Solutions
 
@@ -39,15 +39,23 @@
 * [Ethereum blockchain](knowledgebase/ethereum-blockchain.md)
 * [IPFS storage](knowledgebase/ipfs-storage.md)
 
+## Case Studies
+
+* [IoT data vendor](case-studies/iot-data-vendor.md)
+* [Public datamarket](case-studies/public-datamarket.md)
+* [Academic research group](case-studies/academic-research-group.md)
+* [External data scientist](case-studies/external-data-scientist.md)
+* [Secure data room](case-studies/secure-data-room.md)
+
+## Project Updates
+
+* [hut 'Proof of Work'](project-updates/pow.md)
+* [Social Media](project-updates/social-media.md)
+
 ## API Documentation
 
 * [hutX API](api-documentation/hutx-api.md)
 * [stationY API](api-documentation/stationy-api.md)
 * [Colossus API](api-documentation/readme-1.md)
 * [wallet API](api-documentation/hut34-wallet-api.md)
-
-## Project Updates
-
-* [Social Media](social-media.md)
-* [hut 'Proof of Work'](pow.md)
 

@@ -1,12 +1,12 @@
 # Welcome to the Hut34 Wiki
 
-## Powering the Data economy.
+## Hut34 \| The Agile Data Company.
 
-Hut34 is building the tools for the new data economy. Security, collection, sharing, and monetisation.
+Welcome to the Hut34 wiki. Here you will find information on our products and services and a wide range of hut material.  
+  
+Across data security, collection, sharing, monetisation and team driven insight and spanning from enterprise to academia, our products and services drive agile data practices that help unlock value across the entire data lifecycle. 
 
-Connecting A.I., Bots, IoT, other digital services and data sets and unlocking the value and insight in your data.
-
-Towards a global superintelligence.
+Easy to use techniques and tools for teams, powering the new data economy.
 
 {% embed url="https://hut34.io/assets/Hut34%20Business%20Profile%20Video%20Version%203.mp4" %}
 
