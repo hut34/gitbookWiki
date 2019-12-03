@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [FAQs](faqs.md)
+* [hut34 data ecosystem](hut34-data-ecosystem.md)
 
 ## Products
 

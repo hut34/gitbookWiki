@@ -18,9 +18,9 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 
 ## How do I view datasets for download or purchase?
 
-## How do I become approved to list or sell datasets?
-
 ## What is the public dataHut?
+
+## How do I become approved to list or sell datasets?
 
 ## How does the public dataHut differ from a private dataHut?
 
@@ -29,6 +29,8 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 ## What role does blockchain play in the hut34 data ecosystem?
 
 ## What do you mean by Agile data tools?
+
+
 
 
 
