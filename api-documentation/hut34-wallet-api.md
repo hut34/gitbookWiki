@@ -1,4 +1,10 @@
+---
+description: The world's first Google powered blockchain wallet.
+---
+
 # wallet API
+
+The Hut34 Wallet's enterprise grade API binds tokenised value and a blockchain based settlement layer to data secured by Colossus encryption service.
 
 ## Enable API Access in your account
 
