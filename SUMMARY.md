@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [hut34 data ecosystem overview](hut34-data-ecosystem.md)
+* [hut34 ecosystem overview](hut34-data-ecosystem.md)
 * [FAQs](faqs.md)
 
 ## Products
@@ -22,10 +22,10 @@
   * [Profile](products/datahuts/profile.md)
   * [Settings](products/datahuts/settings.md)
   * [Integrations](products/datahuts/integrations/README.md)
-    * [Excel](products/datahuts/integrations/excel.md)
-    * [Tableau](products/datahuts/integrations/tableau.md)
-    * [R](products/datahuts/integrations/r.md)
-    * [Python](products/datahuts/integrations/python.md)
+    * [ExcelAddIn](products/datahuts/integrations/excel.md)
+    * [Tableau Connector](products/datahuts/integrations/tableau.md)
+    * [R Library](products/datahuts/integrations/r.md)
+    * [Python Library](products/datahuts/integrations/python.md)
 * [stationY](products/stationy.md)
 * [colossus](products/colossus.md)
 * [hut34 wallet](products/h34-wallet.md)
