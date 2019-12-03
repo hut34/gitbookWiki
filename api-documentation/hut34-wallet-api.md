@@ -1,4 +1,4 @@
-# Hut34 wallet API
+# wallet API
 
 ## Enable API Access in your account
 
@@ -8,15 +8,15 @@ First, Sign in using your Google account credentials at:
 
 > [https://wallet.hut34.io/](https://wallet.hut34.io/)
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 Next, click on your profile on the top right of your screen and click on API settings.
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 On the next page, click on "Enable API". It's done! You have successfully enabled API access to this account.
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 {% hint style="info" %}
 
@@ -503,15 +503,15 @@ If you ever want to disable API calls for your account for any reason, complete 
 
 First, Log In your Hut34 Wallet using your Google Account credentials.
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 Next, click on your profile, on the top right corner of the page.
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Finally, click on "Disable API".
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 You have now disabled API access in your wallet.
 
