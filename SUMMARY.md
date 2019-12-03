@@ -42,8 +42,7 @@
 
 ## Case Studies
 
-* [IoT data vendor](case-studies/iot-data-vendor.md)
-* [Public dataHut](case-studies/public-datamarket.md)
+* [Corporate data provider](case-studies/iot-data-vendor.md)
 * [Academic research group](case-studies/academic-research-group.md)
 * [External data scientist](case-studies/external-data-scientist.md)
 * [Secure data room](case-studies/secure-data-room.md)

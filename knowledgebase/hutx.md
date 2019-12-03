@@ -1,3 +1,7 @@
+---
+description: Our foundational building block for secure data sharing.
+---
+
 # hutX
 
 The hutX protocol combines advanced cryptography and market leading blockchain technology to "bind data with value" and create powerful data assets. 

@@ -1,3 +1,7 @@
+---
+description: 'The what, the how, and and the why?'
+---
+
 # hut34 ecosystem overview
 
 The hut34 data ecosytem foundational unit are the [hutX](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/knowledgebase/hutx) smart data objects

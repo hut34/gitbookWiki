@@ -6,11 +6,13 @@ description: >-
 
 # FAQs
 
+## How does the hut34 ecosystem work
+
+## What is the hutX protocol?
+
 ## Where did the name hut34 come from?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## What is the hutX protocol?
 
 ## How can dataHuts help me or my organisation?
 
@@ -29,6 +31,8 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 ## What role does blockchain play in the hut34 data ecosystem?
 
 ## What do you mean by Agile data tools?
+
+
 
 
 
