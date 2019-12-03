@@ -1,4 +1,4 @@
-# Welcome to the Hut34 Wiki
+# Welcome
 
 ## Hut34 \| The Agile Data Company.
 

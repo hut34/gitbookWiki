@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the Hut34 Wiki](README.md)
+* [Welcome](README.md)
 * [FAQs](faqs.md)
 
 ## Products
@@ -56,6 +56,6 @@
 
 * [hutX API](api-documentation/hutx-api.md)
 * [stationY API](api-documentation/stationy-api.md)
-* [Colossus API](api-documentation/readme-1.md)
+* [colossus API](api-documentation/readme-1.md)
 * [wallet API](api-documentation/hut34-wallet-api.md)
 

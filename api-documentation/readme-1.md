@@ -1,8 +1,10 @@
-# Colossus API
+---
+description: Data encryption and smart contract suite.
+---
 
-## Where A.I. Does Business
+# colossus API
 
-Hut34 enables A.I., IoT, other digital services and data sets to connect, interact and monetise data, information and knowledge.
+## 
 
-Creating a shared global superintelligence.
+ The Colossus microservice and smart contract suite forms the foundation for secure and trustless data exchange using the hutX protocol.Colossus manages data security and storage, allowing for data objects of any nature to be traded securely.
 
