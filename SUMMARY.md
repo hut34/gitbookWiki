@@ -25,7 +25,7 @@
     * [Tableau](products/datahuts/integrations/tableau.md)
     * [R](products/datahuts/integrations/r.md)
     * [Python](products/datahuts/integrations/python.md)
-* [StationY](products/stationy.md)
+* [stationY](products/stationy.md)
 * [colossus](products/colossus.md)
 * [h34 wallet](products/h34-wallet.md)
 
