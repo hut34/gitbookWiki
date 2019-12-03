@@ -1,14 +1,16 @@
-# hut34 data ecosystem
+# hut34 data ecosystem overview
 
-The hut34 data ecosytem 
+The hut34 data ecosytem foundational unit are the hutX smart data objects
 
-hutX smart data objects
+hut34 datahuts are the front end access to a suite of data colaboration tools for data collection, security, preparation, sharing, insight, audit and laboratory.
 
-hut34 datahuts
+built on a hybrid tech stack serverless, ethereum, ipfs
 
-collect, secure, prepare, share, insight, audit and laboratory.
+drive data collaborate, agile data practices.
 
-serverless, ethereum, ipfs
+
+
+
 
 
 

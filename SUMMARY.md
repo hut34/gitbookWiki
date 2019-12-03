@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [hut34 data ecosystem overview](hut34-data-ecosystem.md)
 * [FAQs](faqs.md)
-* [hut34 data ecosystem](hut34-data-ecosystem.md)
 
 ## Products
 
