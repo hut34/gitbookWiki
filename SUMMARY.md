@@ -29,6 +29,10 @@
 * [colossus](products/colossus.md)
 * [h34 wallet](products/h34-wallet.md)
 
+## Solutions
+
+* [hut Informatics](solutions/hut-informatics.md)
+
 ## Knowledgebase
 
 * [hutX](knowledgebase/hutx.md)
