@@ -1,6 +1,8 @@
-# Welcome
+---
+description: Hut34 | The Agile Data Company.
+---
 
-## Hut34 \| The Agile Data Company.
+# Welcome
 
 Welcome to the Hut34 wiki. Here you will find information on our products and services and a wide range of hut material.  
   
