@@ -22,7 +22,7 @@
   * [Profile](products/datahuts/profile.md)
   * [Settings](products/datahuts/settings.md)
   * [Integrations](products/datahuts/integrations/README.md)
-    * [ExcelAddIn](products/datahuts/integrations/excel.md)
+    * [Excel AddIn](products/datahuts/integrations/excel.md)
     * [Tableau Connector](products/datahuts/integrations/tableau.md)
     * [R Library](products/datahuts/integrations/r.md)
     * [Python Library](products/datahuts/integrations/python.md)

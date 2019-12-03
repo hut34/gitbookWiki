@@ -1,2 +1,2 @@
-# ExcelAddIn
+# Excel AddIn
 
