@@ -29,6 +29,12 @@
 * [colossus](products/colossus.md)
 * [h34 wallet](products/h34-wallet.md)
 
+## Knowledgebase
+
+* [hutX](knowledgebase/hutx.md)
+* [Ethereum blockchain](knowledgebase/ethereum-blockchain.md)
+* [IPFS storage](knowledgebase/ipfs-storage.md)
+
 ## API Documentation
 
 * [hutX API](api-documentation/hutx-api.md)
