@@ -33,7 +33,7 @@
 
 * [hut Informatics](solutions/hut-informatics.md)
 
-## Knowledgebase
+## Knowledge base <a id="knowledgebase"></a>
 
 * [hutX](knowledgebase/hutx.md)
 * [Ethereum blockchain](knowledgebase/ethereum-blockchain.md)
@@ -42,7 +42,7 @@
 ## Case Studies
 
 * [IoT data vendor](case-studies/iot-data-vendor.md)
-* [Public datamarket](case-studies/public-datamarket.md)
+* [Public dataHut](case-studies/public-datamarket.md)
 * [Academic research group](case-studies/academic-research-group.md)
 * [External data scientist](case-studies/external-data-scientist.md)
 * [Secure data room](case-studies/secure-data-room.md)

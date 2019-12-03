@@ -1,2 +1,2 @@
-# Public datamarket
+# Public dataHut
 

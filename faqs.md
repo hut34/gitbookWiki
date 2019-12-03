@@ -1,3 +1,9 @@
+---
+description: >-
+  All the things you wanted to know about hut34 and the hutX powered data
+  economy.
+---
+
 # FAQs
 
 ## Where did the name hut34 come from?
@@ -6,11 +12,25 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 
 ## What is the hutX protocol?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## How can dataHuts help me or my organisation?
 
-## How can dataHuts help me?
+## What type of data can I upload, share or sell?
 
-datahuts....
+## How do I view datasets for download or purchase?
+
+## How do I become approved to list or sell datasets?
+
+## What is the public dataHut?
+
+## How does the public dataHut differ from a private dataHut?
+
+## What is the difference between custodial and non-custodial data?
+
+## What role does blockchain play in the hut34 data ecosystem?
+
+## What do you mean by Agile data tools?
+
+
 
 
 
