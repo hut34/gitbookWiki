@@ -50,7 +50,6 @@
 ## Project Updates
 
 * [hut 'Proof of Work'](project-updates/pow.md)
-* [Social Media](project-updates/social-media.md)
 
 ## API Documentation
 
@@ -59,4 +58,6 @@
 * [colossus API](api-documentation/readme-1.md)
 * [wallet API](api-documentation/hut34-wallet-api.md)
 * [github](https://github.com/hut34)
+* [twitter](https://twitter.com/hut34project)
+* [linkedIn](https://www.linkedin.com/hut34)
 
