@@ -1,12 +1,14 @@
 # hut34 data ecosystem overview
 
-The hut34 data ecosytem foundational unit are the hutX smart data objects
+The hut34 data ecosytem foundational unit are the [hutX](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/knowledgebase/hutx) smart data objects
 
-hut34 datahuts are the front end access to a suite of data colaboration tools for data collection, security, preparation, sharing, insight, audit and laboratory.
+hut34 datahuts are the front end access to a suite of data colaboration tools for [data collection](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/products/stationy), [security](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/products/colossus), preparation, sharing, insight, audit and laboratory.
 
-built on a hybrid tech stack serverless, ethereum, ipfs
+[api ](https://docs.hut34.io/wiki/api-documentation/hutx-api)access and [third party integrations](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/products/datahuts/integrations).
 
-drive data collaborate, agile data practices.
+built on a hybrid tech stack serverless, [ethereum](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/knowledgebase/ethereum-blockchain), [ipfs](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/knowledgebase/ipfs-storage)
+
+drive data collaboration, agile data practices.
 
 
 
