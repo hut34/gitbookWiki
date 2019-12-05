@@ -38,6 +38,7 @@
 
 * [hutX](knowledgebase/hutx.md)
 * [Ethereum blockchain](knowledgebase/ethereum-blockchain.md)
+* [Data Lifecycle](knowledgebase/data-lifecycle.md)
 * [IPFS storage](knowledgebase/ipfs-storage.md)
 
 ## Case Studies
