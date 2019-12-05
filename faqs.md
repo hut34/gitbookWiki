@@ -1,16 +1,22 @@
 ---
 description: >-
-  All the things you wanted to know about hut34 and the hutX powered data
-  economy.
+  Answers to questions we hear frequently. Reach out via our website, twitter or
+  Discord if you'd like to talk further!
 ---
 
 # FAQs
 
-## How does the hut34 ecosystem work
+## What does Hut34 do?
+
+We build powerful tools to help you get more from your data. We facilitate agile data practices by providing a shared work-space for multi disciplinary teams to secure, share and add value to data dynamically and intuitively. We can help you with team data practices, security and risk reduction, audit and compliance and many aspects of building value in your data.
+
+We're also lucky enough to be based in Manly, Australia, so sometimes what Hut34 does involves the beach.
 
 ## What is the hutX protocol?
 
-## Where did the name hut34 come from?
+The hutX protocol combines advanced cryptography and market leading blockchain technology to "bind data with value" and create powerful data assets.
+
+## Where did the name Hut34 come from?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
