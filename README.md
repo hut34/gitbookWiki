@@ -8,11 +8,11 @@ Welcome to the [Hut34](https://hut34.io) documentation. Here you will find infor
   
 From data security, collection, sharing, monetisation and team driven insight, spanning across enterprise to academia, our products and services drive agile data practices that help unlock value across the entire data lifecycle. 
 
-Easy to use techniques and tools for teams, powering the new data economy.
+{% embed url="https://www.youtube.com/watch?v=16\_5ugsf6SA" %}
 
 
 
-{% embed url="https://hut34.io/assets/Hut34%20Business%20Profile%20Video%20Version%203.mp4" %}
+
 
 
 
