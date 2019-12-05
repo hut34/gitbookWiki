@@ -12,9 +12,16 @@ Hut34 datahuts are the front end access to a suite of data collaboration tools f
 
 Learn more about our [API ](https://docs.hut34.io/wiki/api-documentation/hutx-api)access and [third party integrations](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/products/datahuts/integrations).
 
-Hut34 is built on a hybrid tech stack of GCP serverless compute, [ethereum](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/knowledgebase/ethereum-blockchain), and [IPFS](https://app.gitbook.com/@hut34/s/wiki/~/drafts/-Lv9WYxnZ6fEzO-e8yvl/knowledgebase/ipfs-storage)
 
-We help you drive data collaboration, and agile data practices.
+
+
+
+| Old Way | Hut Way |
+| :---: | :---: |
+| Secure data sharing is hard | Lorem Ipsum Lorem ipsum |
+| Data is locked in your application or silo |  |
+
+
 
 
 
