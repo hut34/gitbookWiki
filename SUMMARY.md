@@ -37,7 +37,7 @@
 
 * [hutX](knowledgebase/hutx.md)
 * [Ethereum blockchain](knowledgebase/ethereum-blockchain.md)
-* [Data Lifecycle](knowledgebase/data-lifecycle.md)
+* [Data lifecycle](knowledgebase/data-lifecycle.md)
 * [IPFS storage](knowledgebase/ipfs-storage.md)
 
 ## Case Studies
@@ -46,10 +46,6 @@
 * [Academic research group](case-studies/academic-research-group.md)
 * [External data scientist](case-studies/external-data-scientist.md)
 * [Secure data room](case-studies/secure-data-room.md)
-
-## Project Updates
-
-* [hut 'Proof of Work'](project-updates/pow.md)
 
 ## API Documentation
 

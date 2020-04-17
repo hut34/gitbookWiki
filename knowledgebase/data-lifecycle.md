@@ -2,7 +2,7 @@
 description: Components of
 ---
 
-# Data Lifecycle
+# Data lifecycle
 
 Collect =&gt; Secure =&gt; Prepare =&gt; Share =&gt; Insight =&gt; Audit
 

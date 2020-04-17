@@ -1,2 +1,0 @@
-# hut 'Proof of Work'
-
