@@ -1,4 +1,4 @@
-# Corporate data provider
+# Corporate data vendor
 
 Company installs IOT devices in customers houses collecting a range of broadband related performance data.  The company collects, collates and adds intelligence to this raw data, selling the insights to their customers.
 
