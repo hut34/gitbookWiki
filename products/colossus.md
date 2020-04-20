@@ -1,5 +1,5 @@
 ---
-description: 'our microservice for encryption, decryption and service.'
+description: data encyption and storage service
 ---
 
 # colossus
