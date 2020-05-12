@@ -8,7 +8,8 @@
 
 * [dataHuts](products/datahuts/README.md)
   * [Data Tools](products/datahuts/datatools/README.md)
-    * [Collect](products/datahuts/datatools/collect.md)
+    * [Collect](products/datahuts/datatools/collect/README.md)
+      * [Request For Data](products/datahuts/datatools/collect/request-for-data.md)
     * [Secure](products/datahuts/datatools/secure.md)
     * [Package](products/datahuts/datatools/package.md)
     * [Insight](products/datahuts/datatools/insight.md)
