@@ -18,11 +18,6 @@ We don't require users to change their current working methods, instead connecti
 
 
 
-| Old Way | Hut Way |
-| :---: | :---: |
-| Secure data sharing is hard | Lorem Ipsum Lorem ipsum |
-| Data is locked in your application or silo |  |
-
 
 
 

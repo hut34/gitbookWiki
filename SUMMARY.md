@@ -51,8 +51,8 @@
 ## API Documentation
 
 * [hutX API](api-documentation/hutx-api.md)
-* [stationY API](api-documentation/stationy-api.md)
 * [colossus API](api-documentation/readme-1.md)
+* [stationY API](api-documentation/stationy-api.md)
 * [wallet API](api-documentation/hut34-wallet-api.md)
 * [github](https://github.com/hut34)
 * [twitter](https://twitter.com/hut34project)
