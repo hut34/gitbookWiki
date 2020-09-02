@@ -48,12 +48,15 @@
 * [External data scientist](case-studies/external-data-scientist.md)
 * [Secure data room](case-studies/secure-data-room.md)
 
-## API Documentation
+## Docs
 
-* [hutX API](api-documentation/hutx-api.md)
-* [colossus API](api-documentation/readme-1.md)
-* [stationY API](api-documentation/stationy-api.md)
-* [wallet API](api-documentation/hut34-wallet-api.md)
+* [hutX API](docs/hutx-api.md)
+* [colossus API](docs/readme-1.md)
+* [stationY API](docs/stationy-api.md)
+* [wallet API](docs/hut34-wallet-api.md)
+
+---
+
 * [github](https://github.com/hut34)
 * [twitter](https://twitter.com/hut34project)
 * [linkedIn](https://www.linkedin.com/hut34)
